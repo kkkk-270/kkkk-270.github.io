@@ -1,0 +1,23 @@
+{
+    "descript" : "안녕하세요 오리정 사는 김진재입니다. 열심히열심히 공부하겠습니다. 집에 가고싶습니다. 살려주세요",
+    "myjob" : "Java(Spring,Spring boot),React 개발자 ",
+    "aboutTitle": "Java(Spring, Spring boot),React 개발자",
+    "aboutContent": "저는 사용자에게 편리하고 즐거운 웹 경험을 제공하기 위해 코드를 짜고 디자인하는 웹 개발자입니다. 끊임없이 새로운 기술을 배우고 적용하며 더 나은 웹 서비스를 만들기 위해 노력하고 있습니다. 웹 개발에 대해 궁금한 점이나 함께 이야기 나누고 싶은 주제가 있으시면 언제든지 편하게 말씀해주세요!",
+    "name" : "jinjae Kim",
+    "phone" : "+82 10 1234 1234",
+    "age" : "26 Years",
+    "email" : "email@email.com",
+    "occupation" : "백수",
+    "nationality" : "대한민국",
+    "img" : "img/me.png",
+    "skills" : [
+        {"title": "HTML", "scripts" : "나쁘지않습니다.","level" : 80 },
+        {"title": "JavaScript", "scripts" : "이것또한 낫배드.","level" : 70 },
+        {"title": "JavaServlet", "scripts" : "열심히 배웠습니다","level" : 75 },
+        {"title": "Spring", "scripts" : "열심히 공부하고 있습니다.","level" : 77 },
+        {"title": "Spring boot", "scripts" : "마스터하는 그날까지","level" : 65 },
+        {"title": "React", "scripts" : "너무 재밌게 공부하고 있습니다","level" : 50 },
+        {"title": "Mobile", "scripts" : "열심히해야합니다","level" : 50 },
+        {"title": "AWS", "scripts" : "이것또한 열심히..","level" : 50 }
+    ]
+}
