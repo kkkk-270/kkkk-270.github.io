@@ -26,23 +26,23 @@
     "hero": {
         "title": "AI보다 노력하는 개발자 jinjae의 블로그입니다. ",
         "subtitle": "무료로 제공되는 Google의 서비스는 영어와 100가지 이상의 다른 언어로 단어, 구문, 웹페이지를 즉시 번역합니다.",
-        "cta1": "View My Work",
-        "cta2": "Let's Connect",
+        "cta1": "작업물 보기",
+        "cta2": "이력서 보기",
         "image": {"img": "img/hero.png",
                  "alt": "wevdeveloper jinjae"
          },
         "stats": [
             {
-                "number": "5+",
-                "label": "Years Experience"
+                "number": "6",
+                "label": "작업물"
             },
             {
-                "number": "100+",
-                "label": "Projects Completed"
+                "number": "신입",
+                "label": "경력사항"
             },
             {
-                "number": "50+",
-                "label": "Happy Clients"
+                "number": "6개월",
+                "label": "공부기간"
             }
         ]
     }
